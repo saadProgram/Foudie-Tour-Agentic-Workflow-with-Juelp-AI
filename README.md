@@ -18,7 +18,7 @@ The Foodie Tour Creator is an intelligent workflow that:
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.12+
 - Julep client library
 - PyYAML
 - OpenWeatherMap API key
