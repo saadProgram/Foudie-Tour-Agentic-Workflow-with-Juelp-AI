@@ -27,7 +27,7 @@ The Foodie Tour Creator is an intelligent workflow that:
 ## Installation
 
 ```bash
-pip install julep pyyaml -U
+pip install julep pyyaml -U 
 ```
 
 ## Usage
